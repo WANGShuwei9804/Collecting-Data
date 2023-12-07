@@ -21,3 +21,13 @@ runtime:	The length of an episode for TV shows or duration of a movie. (Text)
 imdb_score:	The score given by users on IMDB for a particular title. (Numeric)
 
 imdb_votes:	The number of votes received by each title on IMDB. (Numeric)
+
+### In the notebook, I am trying to find out that:
+
+1. Trends in the number of people who voted for Netflix on IMDB over the years.
+ 
+2. Find most popular movies and TV shows.
+
+3. Based on the ratings, what length of content users are more likely to watch.
+ 
+4. Analyze the changes in the number of movies and TV shows released to understand Netflix's growth trends over different years.
